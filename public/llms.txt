@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-4b8e6f3f.zappy5.app
+https://example.com
 חנות הגיימינג שתמיד חלמתם עליה! ציוד גיימינג מקצועי לרכישה, מקלדות מכניות ועוד בזירת משתוללת של דילים. היכנסו עכשיו והפכו כל משחק לחוויה בלתי נשכחת.
 
 ### למה לבחור בנו
-https://-4b8e6f3f.zappy5.app/why-choose-us
+https://example.com/why-choose-us
 מחפשים סיבה לבחור דווקא בנו? גלו איך גיימינג זה החיים הופכת כל רכישת ציוד גיימינג מקצועי ליתרון מוחץ על המסך. איכות, מהירות ושירות שהקהילה אוהבת.
 
 ### קהילה
-https://-4b8e6f3f.zappy5.app/community
+https://example.com/community
 קהילת הגיימינג שלנו חיה, נושמת ומנצחת ביחד. שתפו טיפים, הרכיבו צוותים וקבלו גישה ראשונה לציוד גיימינג מקצועי לרכישה. בואו להיות חלק מהאגדה.
 
 ### צור קשר
-https://-4b8e6f3f.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מקלדת גיימינג מכנית ישראל או סתם בא לכם לדבר על הדיל הבא? צרו קשר עכשיו וקבלו מענה מהיר מצוות גיימינג זה החיים. אנחנו כאן בשבילכם 24/7.
 
 ### Products
-https://-4b8e6f3f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גיימינג זה החיים
 
 ### Cart
-https://-4b8e6f3f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-4b8e6f3f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-4b8e6f3f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-4b8e6f3f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-4b8e6f3f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-4b8e6f3f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גיימינג זה החיים
 
 ### Category
-https://-4b8e6f3f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גיימינג זה החיים
 
 ### תודה שפניתם אלינו
-https://-4b8e6f3f.zappy5.app/thank-you
+https://example.com/thank-you
 גיימינג זה החיים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-4b8e6f3f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-4b8e6f3f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-4b8e6f3f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-4b8e6f3f.zappy5.app/sitemap.xml
-- Robots: https://-4b8e6f3f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-4b8e6f3f.zappy5.app/llms-full.txt
-- Products (JSON): https://-4b8e6f3f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-4b8e6f3f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
