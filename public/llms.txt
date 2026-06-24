@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### שלט אקסבוקס 
+https://example.com/product/shlt-aksbvks-t5qnug
+- Price: 69.00 ILS (sale, was 80.00 ILS)
+- Availability: In stock
+- SKU: שלט בקר
+- Brand: בקר
+- Image: https://example.com/assets/product-1782326703305-6wzdqf.webp
 
 ---
 

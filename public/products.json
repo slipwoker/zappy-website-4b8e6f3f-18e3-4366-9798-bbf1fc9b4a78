@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-24T18:26:38.793Z",
+  "generated_at": "2026-06-24T18:57:52.558Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "eb7a3edd-f881-48f5-af5f-a75d6e406c08",
+      "slug": "shlt-aksbvks-t5qnug",
+      "name": "שלט אקסבוקס ",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "שלט בקר",
+      "brand": "בקר",
+      "price": 69,
+      "base_price": 80,
+      "sale_price": 69,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782326703305-6wzdqf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/shlt-aksbvks-t5qnug",
+      "categories": [],
+      "updated_at": "2026-06-24T18:54:48.810Z"
+    }
+  ]
 }

@@ -4,6 +4,19 @@
     <title>גיימינג זה החיים</title>
     <link>https://example.com</link>
     <description>Product feed for גיימינג זה החיים</description>
-    <lastBuildDate>Wed, 24 Jun 2026 18:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 18:57:52 GMT</lastBuildDate>
+    <item>
+      <g:id>eb7a3edd-f881-48f5-af5f-a75d6e406c08</g:id>
+      <g:title>שלט אקסבוקס </g:title>
+      <g:description>שלט אקסבוקס</g:description>
+      <g:link>https://example.com/product/shlt-aksbvks-t5qnug</g:link>
+      <g:image_link>https://example.com/assets/product-1782326703305-6wzdqf.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>80.00 ILS</g:price>
+      <g:sale_price>69.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>בקר</g:brand>
+      <g:mpn>שלט בקר</g:mpn>
+    </item>
   </channel>
 </rss>
