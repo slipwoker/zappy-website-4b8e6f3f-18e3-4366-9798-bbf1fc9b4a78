@@ -76,7 +76,67 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 11**
+
+### רמקולים לגיימינג Razer Nommo Chroma
+https://example.com/product/rmkvlym-lgyymyng-razer-nommo-chroma-qp3pe9
+- Price: 520.00 ILS
+- Availability: In stock
+- Description: זוג רמקולים 2.0 עם דרייברים 3 אינץ׳, תאורת Chroma RGB מסונכרנת, בס עמוק. מושלם לגיימינג, מוזיקה וסרטים.
+
+### בקר גיימינג SCUF Instinct Pro
+https://example.com/product/bkr-gyymyng-scuf-instinct-pro-yz3lxi
+- Price: 699.00 ILS (sale, was 790.00 ILS)
+- Availability: In stock
+- Description: בקר אלחוטי מקצועי, 4 פדלים אחוריים, טריגרים מיידיים, מפתחות הניתנים להחלפה. מותאם אישית לגיימר התחרותי.
+
+### כרטיס מסך NVIDIA GeForce RTX 4070
+https://example.com/product/krtys-msk-nvidia-geforce-rtx-4070-urk7nn
+- Price: 2890.00 ILS
+- Availability: In stock
+- Description: כרטיס מסך Ada Lovelace, 12GB GDDR6X, תומך DLSS 3, Ray Tracing. ביצועים מטורפים למשחקי AAA ברזולוציית 1440p ו-4K.
+
+### פד גיימינג XXL SteelSeries QcK Heavy
+https://example.com/product/pd-gyymyng-xxl-steelseries-qck-heavy-gk9css
+- Price: 120.00 ILS
+- Availability: In stock
+- Description: משטח עכבר גיימינג בגודל 900×400 מ״מ, בד מיקרופייבר איכותי, גומי סיליקון מונע החלקה. מכסה את כל השולחן ומספק שליטה מלאה.
+
+### מיקרופון סטרימינג Elgato Wave:3
+https://example.com/product/mykrvpvn-strymyng-elgato-wave3-62flxd
+- Price: 540.00 ILS
+- Availability: In stock
+- Description: מיקרופון USB קונדנסר מקצועי לסטרימרים, קפסולה גדולה 17 מ״מ, טכנולוגיית Clipguard נגד עיוותים, מיקסר דיגיטלי מובנה. פלאג אנד פליי – בלי כאבי ראש.
+
+### מסך גיימינג 27" ASUS TUF VG27AQ1A
+https://example.com/product/msk-gyymyng-27-asus-tuf-vg27aq1a-gz2eo7
+- Price: 1290.00 ILS (sale, was 1450.00 ILS)
+- Availability: In stock
+- Description: מסך 27 אינץ׳ QHD IPS, קצב רענון 170Hz, זמן תגובה 1ms, תומך G-Sync ו-FreeSync Premium. HDR10 מובנה ורמקולים מובנים.
+
+### כיסא גיימינג Secretlab TITAN Evo
+https://example.com/product/kysa-gyymyng-secretlab-titan-evo-hiz4hs
+- Price: 1690.00 ILS (sale, was 1890.00 ILS)
+- Availability: In stock
+- Description: כיסא גיימינג פרימיום בגודל מלא, תמיכה מותנית מובנית מתכווננת, ציפוי עור NEO היברידי עמיד, משענות יד 4D מגנטיות. ארגונומי ברמה שלא נראתה.
+
+### אוזניות גיימינג HyperX Cloud II
+https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-b6w0md
+- Price: 350.00 ILS
+- Availability: In stock
+- Description: אוזניות גיימינג אלחוטיות עם סאונד 7.1 היקפי, דרייברים 53 מ״מ, סוללה ל-30 שעות, כריות קצף זיכרון ומיקרופון מתנתק עם ביטול רעשים אקטיבי.
+
+### עכבר גיימינג Logitech G Pro X Superlight
+https://example.com/product/akbr-gyymyng-logitech-g-pro-x-superlight-u5xg96
+- Price: 499.00 ILS (sale, was 580.00 ILS)
+- Availability: In stock
+- Description: עכבר אלחוטי מהיר בזק עם חיישן HERO 25K, משקל 63 גרם בלבד, 70 שעות סוללה, ורגליות PTFE חלקות. הבחירה של הפרו-גיימרים.
+
+### מקלדת מכנית RGB PRO – Cherry MX Red
+https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-m3b46w
+- Price: 399.00 ILS (sale, was 450.00 ILS)
+- Availability: In stock
+- Description: מקלדת מכנית מקצועית עם סוויצ׳ים Cherry MX Red, תאורת RGB מלאה הניתנת להתאמה אישית, שלדת אלומיניום מוברש, ומשענת שורש כף יד מגנטית. מיועדת לגיימרים תחרותיים שרוצים דיוק ומהירות.
 
 ### שלט אקסבוקס 
 https://example.com/product/shlt-aksbvks-t5qnug

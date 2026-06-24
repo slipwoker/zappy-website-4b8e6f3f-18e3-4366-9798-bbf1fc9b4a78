@@ -4,7 +4,122 @@
     <title>גיימינג זה החיים</title>
     <link>https://example.com</link>
     <description>Product feed for גיימינג זה החיים</description>
-    <lastBuildDate>Wed, 24 Jun 2026 19:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:05:29 GMT</lastBuildDate>
+    <item>
+      <g:id>5f1873f0-ea7b-4a99-bfdf-16f8a3580432</g:id>
+      <g:title>רמקולים לגיימינג Razer Nommo Chroma</g:title>
+      <g:description>זוג רמקולים 2.0 עם דרייברים 3 אינץ׳, תאורת Chroma RGB מסונכרנת, בס עמוק. מושלם לגיימינג, מוזיקה וסרטים.</g:description>
+      <g:link>https://example.com/product/rmkvlym-lgyymyng-razer-nommo-chroma-qp3pe9</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>520.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>24a9399f-2dda-466c-9dac-86fb595b4def</g:id>
+      <g:title>בקר גיימינג SCUF Instinct Pro</g:title>
+      <g:description>בקר אלחוטי מקצועי, 4 פדלים אחוריים, טריגרים מיידיים, מפתחות הניתנים להחלפה. מותאם אישית לגיימר התחרותי.</g:description>
+      <g:link>https://example.com/product/bkr-gyymyng-scuf-instinct-pro-yz3lxi</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>790.00 ILS</g:price>
+      <g:sale_price>699.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>0ad551e3-cbac-4fd6-b20b-282961d1580f</g:id>
+      <g:title>כרטיס מסך NVIDIA GeForce RTX 4070</g:title>
+      <g:description>כרטיס מסך Ada Lovelace, 12GB GDDR6X, תומך DLSS 3, Ray Tracing. ביצועים מטורפים למשחקי AAA ברזולוציית 1440p ו-4K.</g:description>
+      <g:link>https://example.com/product/krtys-msk-nvidia-geforce-rtx-4070-urk7nn</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>2890.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b989781a-bc4d-4e40-8bec-f9667be289ee</g:id>
+      <g:title>פד גיימינג XXL SteelSeries QcK Heavy</g:title>
+      <g:description>משטח עכבר גיימינג בגודל 900×400 מ״מ, בד מיקרופייבר איכותי, גומי סיליקון מונע החלקה. מכסה את כל השולחן ומספק שליטה מלאה.</g:description>
+      <g:link>https://example.com/product/pd-gyymyng-xxl-steelseries-qck-heavy-gk9css</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>120.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ebef4f27-c2e3-438f-bc8d-76f775b826bb</g:id>
+      <g:title>מיקרופון סטרימינג Elgato Wave:3</g:title>
+      <g:description>מיקרופון USB קונדנסר מקצועי לסטרימרים, קפסולה גדולה 17 מ״מ, טכנולוגיית Clipguard נגד עיוותים, מיקסר דיגיטלי מובנה. פלאג אנד פליי – בלי כאבי ראש.</g:description>
+      <g:link>https://example.com/product/mykrvpvn-strymyng-elgato-wave3-62flxd</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>540.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b7a68d6a-4b2c-4a21-a9c0-342b3203c249</g:id>
+      <g:title>מסך גיימינג 27&quot; ASUS TUF VG27AQ1A</g:title>
+      <g:description>מסך 27 אינץ׳ QHD IPS, קצב רענון 170Hz, זמן תגובה 1ms, תומך G-Sync ו-FreeSync Premium. HDR10 מובנה ורמקולים מובנים.</g:description>
+      <g:link>https://example.com/product/msk-gyymyng-27-asus-tuf-vg27aq1a-gz2eo7</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1450.00 ILS</g:price>
+      <g:sale_price>1290.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ded84a1a-1361-4194-ae49-295ebb0bd033</g:id>
+      <g:title>כיסא גיימינג Secretlab TITAN Evo</g:title>
+      <g:description>כיסא גיימינג פרימיום בגודל מלא, תמיכה מותנית מובנית מתכווננת, ציפוי עור NEO היברידי עמיד, משענות יד 4D מגנטיות. ארגונומי ברמה שלא נראתה.</g:description>
+      <g:link>https://example.com/product/kysa-gyymyng-secretlab-titan-evo-hiz4hs</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1890.00 ILS</g:price>
+      <g:sale_price>1690.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>96fa70dd-a73d-4223-b71f-b74e025869d2</g:id>
+      <g:title>אוזניות גיימינג HyperX Cloud II</g:title>
+      <g:description>אוזניות גיימינג אלחוטיות עם סאונד 7.1 היקפי, דרייברים 53 מ״מ, סוללה ל-30 שעות, כריות קצף זיכרון ומיקרופון מתנתק עם ביטול רעשים אקטיבי.</g:description>
+      <g:link>https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-b6w0md</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>350.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>1ee767c0-f2e8-4ecb-9956-a246f945e332</g:id>
+      <g:title>עכבר גיימינג Logitech G Pro X Superlight</g:title>
+      <g:description>עכבר אלחוטי מהיר בזק עם חיישן HERO 25K, משקל 63 גרם בלבד, 70 שעות סוללה, ורגליות PTFE חלקות. הבחירה של הפרו-גיימרים.</g:description>
+      <g:link>https://example.com/product/akbr-gyymyng-logitech-g-pro-x-superlight-u5xg96</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>580.00 ILS</g:price>
+      <g:sale_price>499.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c3df1d0d-36e2-49eb-a0b2-5e76885dcaba</g:id>
+      <g:title>מקלדת מכנית RGB PRO – Cherry MX Red</g:title>
+      <g:description>מקלדת מכנית מקצועית עם סוויצ׳ים Cherry MX Red, תאורת RGB מלאה הניתנת להתאמה אישית, שלדת אלומיניום מוברש, ומשענת שורש כף יד מגנטית. מיועדת לגיימרים תחרותיים שרוצים דיוק ומהירות.</g:description>
+      <g:link>https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-m3b46w</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>450.00 ILS</g:price>
+      <g:sale_price>399.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>eb7a3edd-f881-48f5-af5f-a75d6e406c08</g:id>
       <g:title>שלט אקסבוקס </g:title>
