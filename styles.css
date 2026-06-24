@@ -10939,6 +10939,295 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+/* AI-generated section */
+/* ===== GAMING FAQ SECTION ===== */
+.gaming-faq-section {
+  background: linear-gradient(135deg, #0a0a0f 0%, #111122 40%, #0d1117 100%);
+  padding: 80px 20px;
+  position: relative;
+  overflow: hidden;
+  font-family: system-ui, sans-serif;
+  direction: rtl;
+}
+
+/* Subtle grid pattern overlay */
+.gaming-faq-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: 
+    linear-gradient(rgba(37, 99, 235, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(37, 99, 235, 0.03) 1px, transparent 1px);
+  background-size: 40px 40px;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.gaming-faq-container {
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* ===== HEADER ===== */
+.gaming-faq-header {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.gaming-faq-title {
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 12px 0;
+  line-height: 1.3;
+  letter-spacing: -0.5px;
+  text-shadow: 0 0 40px rgba(37, 99, 235, 0.3);
+}
+
+.gaming-faq-subtitle {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* ===== FAQ LIST ===== */
+.gaming-faq-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* ===== FAQ ITEM (CARD) ===== */
+.gaming-faq-item {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(37, 99, 235, 0.25);
+  border-radius: 14px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(37, 99, 235, 0.08) inset;
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.gaming-faq-item:hover {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(37, 99, 235, 0.4);
+  box-shadow: 0 6px 28px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(37, 99, 235, 0.12) inset;
+  transform: translateY(-1px);
+}
+
+.gaming-faq-item.active {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(37, 99, 235, 0.5);
+  box-shadow: 0 8px 32px rgba(37, 99, 235, 0.15), 0 0 0 1px rgba(37, 99, 235, 0.15) inset;
+}
+
+/* ===== QUESTION BUTTON ===== */
+.gaming-faq-question {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: system-ui, sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #e8e8f0;
+  text-align: right;
+  gap: 16px;
+  transition: color 0.25s ease;
+  line-height: 1.5;
+}
+
+.gaming-faq-question:hover {
+  color: #ffffff;
+}
+
+.gaming-faq-question:focus-visible {
+  outline: 2px solid var(--primary, #2563EB);
+  outline-offset: -2px;
+  border-radius: 14px;
+}
+
+.gaming-faq-question-text {
+  flex: 1;
+}
+
+/* ===== ICON / CHEVRON ===== */
+.gaming-faq-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(37, 99, 235, 0.15);
+  color: rgba(37, 99, 235, 0.8);
+  transition: all 0.35s ease;
+}
+
+.gaming-faq-item.active .gaming-faq-icon {
+  background: rgba(37, 99, 235, 0.25);
+  color: #60a5fa;
+  transform: rotate(180deg);
+}
+
+.gaming-faq-icon svg {
+  transition: transform 0.35s ease;
+}
+
+/* ===== ANSWER (COLLAPSIBLE) ===== */
+.gaming-faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: max-height 0.4s ease, opacity 0.3s ease, padding 0.3s ease;
+  padding: 0 24px;
+}
+
+.gaming-faq-item.active .gaming-faq-answer {
+  max-height: 500px;
+  opacity: 1;
+  padding: 0 24px 20px 24px;
+}
+
+.gaming-faq-answer-inner {
+  border-right: 3px solid var(--primary, #2563EB);
+  padding: 4px 16px 4px 0;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+.gaming-faq-answer-inner p {
+  margin: 0;
+}
+
+/* ===== CTA SECTION ===== */
+.gaming-faq-cta {
+  text-align: center;
+  margin-top: 48px;
+  padding: 32px 24px;
+  background: rgba(37, 99, 235, 0.06);
+  border: 1px solid rgba(37, 99, 235, 0.2);
+  border-radius: 16px;
+}
+
+.gaming-faq-cta-text {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0 0 20px 0;
+}
+
+.gaming-faq-cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 32px;
+  background: var(--primary, #2563EB);
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 50px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  font-family: system-ui, sans-serif;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 20px rgba(37, 99, 235, 0.35);
+  border: none;
+  cursor: pointer;
+}
+
+.gaming-faq-cta-button:hover {
+  background: #1d4ed8;
+  box-shadow: 0 6px 28px rgba(37, 99, 235, 0.5);
+  transform: translateY(-2px);
+}
+
+.gaming-faq-cta-button:focus-visible {
+  outline: 3px solid #60a5fa;
+  outline-offset: 3px;
+}
+
+.gaming-faq-cta-button svg {
+  transition: transform 0.3s ease;
+}
+
+.gaming-faq-cta-button:hover svg {
+  transform: translateX(-4px);
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .gaming-faq-section {
+    padding: 56px 16px;
+  }
+
+  .gaming-faq-title {
+    font-size: 1.65rem;
+  }
+
+  .gaming-faq-subtitle {
+    font-size: 0.95rem;
+  }
+
+  .gaming-faq-question {
+    padding: 16px 18px;
+    font-size: 0.95rem;
+  }
+
+  .gaming-faq-answer {
+    padding: 0 18px;
+  }
+
+  .gaming-faq-item.active .gaming-faq-answer {
+    padding: 0 18px 16px 18px;
+  }
+
+  .gaming-faq-answer-inner {
+    font-size: 0.9rem;
+    padding-right: 12px;
+  }
+
+  .gaming-faq-cta {
+    margin-top: 36px;
+    padding: 24px 16px;
+  }
+
+  .gaming-faq-cta-button {
+    padding: 12px 24px;
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .gaming-faq-title {
+    font-size: 1.4rem;
+  }
+
+  .gaming-faq-question {
+    padding: 14px 14px;
+    font-size: 0.9rem;
+  }
+
+  .gaming-faq-icon {
+    width: 28px;
+    height: 28px;
+  }
+
+  .gaming-faq-icon svg {
+    width: 16px;
+    height: 16px;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

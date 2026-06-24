@@ -76,7 +76,37 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 11**
+**Total active products: 16**
+
+### חבילת גיימינג חסכונית – מקלדת + עכבר + פד
+https://example.com/product/chbylt-gyymyng-chskvnyt-mkldt-akbr-pd-sqvjmn
+- Price: 249.00 ILS (sale, was 350.00 ILS)
+- Availability: In stock
+- Description: חבילת סטרטר לגיימר המתחיל: מקלדת מכנית RGB עם סוויצ׳ים כחולים, עכבר גיימינג 7200DPI עם 6 כפתורים, ומשטח עכבר XL. כל מה שצריך בשביל להתחיל לנצח.
+
+### משטח טעינה אלחוטי לגיימינג Razer Mouse Dock Pro
+https://example.com/product/mshtch-taynh-alchvty-lgyymyng-razer-mouse-dock-pro-a5enu6
+- Price: 320.00 ILS
+- Availability: In stock
+- Description: עמדת טעינה אלחוטית לעכברי Razer תואמים, תאורת Chroma RGB, אינטגרציה מלאה עם Synapse. שומר על העכבר שלך טעון ומוכן לקרב.
+
+### מצלמת סטרימינג Logitech StreamCam
+https://example.com/product/mtslmt-strymyng-logitech-streamcam-4h5bk6
+- Price: 429.00 ILS (sale, was 480.00 ILS)
+- Availability: In stock
+- Description: מצלמת USB-C 1080p 60fps, פוקוס אוטומטי חכם, תיקון תאורה אוטומטי, תומכת במצב אנכי 9:16 למובייל. מושלמת לסטרימרים ויוצרי תוכן.
+
+### ספק כוח Corsair RM850x – 850W 80+ Gold
+https://example.com/product/spk-kvch-corsair-rm850x-850w-80-gold-uh9h0g
+- Price: 550.00 ILS
+- Availability: In stock
+- Description: ספק כוח מודולרי מלא 850W, דירוג 80+ Gold, מאוורר 135 מ״מ שקט במיוחד עם Zero RPM Mode. אמינות מוכחת לשנים של גיימינג.
+
+### מארז למחשב NZXT H7 Flow RGB
+https://example.com/product/marz-lmchshb-nzxt-h7-flow-rgb-zs8ume
+- Price: 449.00 ILS (sale, was 520.00 ILS)
+- Availability: In stock
+- Description: מארז ATX Mid-Tower עם פאנל קדמי מחורר לזרימת אוויר מקסימלית, 3 מאווררי RGB 140 מ״מ כלולים, חלון זכוכית מחוסמת, וניהול כבלים מובנה.
 
 ### רמקולים לגיימינג Razer Nommo Chroma
 https://example.com/product/rmkvlym-lgyymyng-razer-nommo-chroma-qp3pe9
@@ -120,8 +150,8 @@ https://example.com/product/kysa-gyymyng-secretlab-titan-evo-hiz4hs
 - Availability: In stock
 - Description: כיסא גיימינג פרימיום בגודל מלא, תמיכה מותנית מובנית מתכווננת, ציפוי עור NEO היברידי עמיד, משענות יד 4D מגנטיות. ארגונומי ברמה שלא נראתה.
 
-### אוזניות גיימינג HyperX Cloud II
-https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-b6w0md
+### אוזניות גיימינג HyperX Cloud II 🔥
+https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-rqwpf5
 - Price: 350.00 ILS
 - Availability: In stock
 - Description: אוזניות גיימינג אלחוטיות עם סאונד 7.1 היקפי, דרייברים 53 מ״מ, סוללה ל-30 שעות, כריות קצף זיכרון ומיקרופון מתנתק עם ביטול רעשים אקטיבי.
@@ -132,18 +162,19 @@ https://example.com/product/akbr-gyymyng-logitech-g-pro-x-superlight-u5xg96
 - Availability: In stock
 - Description: עכבר אלחוטי מהיר בזק עם חיישן HERO 25K, משקל 63 גרם בלבד, 70 שעות סוללה, ורגליות PTFE חלקות. הבחירה של הפרו-גיימרים.
 
-### מקלדת מכנית RGB PRO – Cherry MX Red
-https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-m3b46w
+### מקלדת מכנית RGB PRO – Cherry MX Red 🔥
+https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-amgzex
 - Price: 399.00 ILS (sale, was 450.00 ILS)
 - Availability: In stock
 - Description: מקלדת מכנית מקצועית עם סוויצ׳ים Cherry MX Red, תאורת RGB מלאה הניתנת להתאמה אישית, שלדת אלומיניום מוברש, ומשענת שורש כף יד מגנטית. מיועדת לגיימרים תחרותיים שרוצים דיוק ומהירות.
 
-### שלט אקסבוקס 
-https://example.com/product/shlt-aksbvks-t5qnug
+### שלט אקסבוקס אלחוטי – רב מכר 🔥
+https://example.com/product/shlt-aksbvks-alchvty-rb-mkr-gly0br
 - Price: 69.00 ILS (sale, was 80.00 ILS)
 - Availability: In stock
 - SKU: שלט בקר
 - Brand: בקר
+- Description: שלט אלחוטי רשמי של Xbox, תומך ב-Bluetooth, ארגונומי מושלם, ג'ויסטיקים מדויקים. הנמכר ביותר שלנו בקטגוריית הבקרים — אלפי גיימרים כבר בחרו בו.
 - Image: https://example.com/assets/product-1782326703305-6wzdqf.webp
 
 ---

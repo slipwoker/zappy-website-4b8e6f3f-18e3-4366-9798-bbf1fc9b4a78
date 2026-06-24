@@ -4,7 +4,65 @@
     <title>גיימינג זה החיים</title>
     <link>https://example.com</link>
     <description>Product feed for גיימינג זה החיים</description>
-    <lastBuildDate>Wed, 24 Jun 2026 19:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:07:47 GMT</lastBuildDate>
+    <item>
+      <g:id>39c96a33-988c-4694-af36-20ac1e3952cf</g:id>
+      <g:title>חבילת גיימינג חסכונית – מקלדת + עכבר + פד</g:title>
+      <g:description>חבילת סטרטר לגיימר המתחיל: מקלדת מכנית RGB עם סוויצ׳ים כחולים, עכבר גיימינג 7200DPI עם 6 כפתורים, ומשטח עכבר XL. כל מה שצריך בשביל להתחיל לנצח.</g:description>
+      <g:link>https://example.com/product/chbylt-gyymyng-chskvnyt-mkldt-akbr-pd-sqvjmn</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>350.00 ILS</g:price>
+      <g:sale_price>249.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>09ce980c-86f2-478e-85f7-47b9f0c6216c</g:id>
+      <g:title>משטח טעינה אלחוטי לגיימינג Razer Mouse Dock Pro</g:title>
+      <g:description>עמדת טעינה אלחוטית לעכברי Razer תואמים, תאורת Chroma RGB, אינטגרציה מלאה עם Synapse. שומר על העכבר שלך טעון ומוכן לקרב.</g:description>
+      <g:link>https://example.com/product/mshtch-taynh-alchvty-lgyymyng-razer-mouse-dock-pro-a5enu6</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>320.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>8e7d962e-60df-4efa-89e1-cf92ef5c0aa8</g:id>
+      <g:title>מצלמת סטרימינג Logitech StreamCam</g:title>
+      <g:description>מצלמת USB-C 1080p 60fps, פוקוס אוטומטי חכם, תיקון תאורה אוטומטי, תומכת במצב אנכי 9:16 למובייל. מושלמת לסטרימרים ויוצרי תוכן.</g:description>
+      <g:link>https://example.com/product/mtslmt-strymyng-logitech-streamcam-4h5bk6</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>480.00 ILS</g:price>
+      <g:sale_price>429.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>33f73670-0ffa-462d-bf5c-b224171cf1b3</g:id>
+      <g:title>ספק כוח Corsair RM850x – 850W 80+ Gold</g:title>
+      <g:description>ספק כוח מודולרי מלא 850W, דירוג 80+ Gold, מאוורר 135 מ״מ שקט במיוחד עם Zero RPM Mode. אמינות מוכחת לשנים של גיימינג.</g:description>
+      <g:link>https://example.com/product/spk-kvch-corsair-rm850x-850w-80-gold-uh9h0g</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>550.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c25b4557-41d4-4224-b024-4fcc30471a5f</g:id>
+      <g:title>מארז למחשב NZXT H7 Flow RGB</g:title>
+      <g:description>מארז ATX Mid-Tower עם פאנל קדמי מחורר לזרימת אוויר מקסימלית, 3 מאווררי RGB 140 מ״מ כלולים, חלון זכוכית מחוסמת, וניהול כבלים מובנה.</g:description>
+      <g:link>https://example.com/product/marz-lmchshb-nzxt-h7-flow-rgb-zs8ume</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>520.00 ILS</g:price>
+      <g:sale_price>449.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>גיימינג זה החיים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
     <item>
       <g:id>5f1873f0-ea7b-4a99-bfdf-16f8a3580432</g:id>
       <g:title>רמקולים לגיימינג Razer Nommo Chroma</g:title>
@@ -87,9 +145,9 @@
     </item>
     <item>
       <g:id>96fa70dd-a73d-4223-b71f-b74e025869d2</g:id>
-      <g:title>אוזניות גיימינג HyperX Cloud II</g:title>
+      <g:title>אוזניות גיימינג HyperX Cloud II 🔥</g:title>
       <g:description>אוזניות גיימינג אלחוטיות עם סאונד 7.1 היקפי, דרייברים 53 מ״מ, סוללה ל-30 שעות, כריות קצף זיכרון ומיקרופון מתנתק עם ביטול רעשים אקטיבי.</g:description>
-      <g:link>https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-b6w0md</g:link>
+      <g:link>https://example.com/product/avznyvt-gyymyng-hyperx-cloud-ii-rqwpf5</g:link>
       <g:availability>in_stock</g:availability>
       <g:price>350.00 ILS</g:price>
       <g:condition>new</g:condition>
@@ -110,9 +168,9 @@
     </item>
     <item>
       <g:id>c3df1d0d-36e2-49eb-a0b2-5e76885dcaba</g:id>
-      <g:title>מקלדת מכנית RGB PRO – Cherry MX Red</g:title>
+      <g:title>מקלדת מכנית RGB PRO – Cherry MX Red 🔥</g:title>
       <g:description>מקלדת מכנית מקצועית עם סוויצ׳ים Cherry MX Red, תאורת RGB מלאה הניתנת להתאמה אישית, שלדת אלומיניום מוברש, ומשענת שורש כף יד מגנטית. מיועדת לגיימרים תחרותיים שרוצים דיוק ומהירות.</g:description>
-      <g:link>https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-m3b46w</g:link>
+      <g:link>https://example.com/product/mkldt-mknyt-rgb-pro-cherry-mx-red-amgzex</g:link>
       <g:availability>in_stock</g:availability>
       <g:price>450.00 ILS</g:price>
       <g:sale_price>399.00 ILS</g:sale_price>
@@ -122,9 +180,9 @@
     </item>
     <item>
       <g:id>eb7a3edd-f881-48f5-af5f-a75d6e406c08</g:id>
-      <g:title>שלט אקסבוקס </g:title>
-      <g:description>שלט אקסבוקס</g:description>
-      <g:link>https://example.com/product/shlt-aksbvks-t5qnug</g:link>
+      <g:title>שלט אקסבוקס אלחוטי – רב מכר 🔥</g:title>
+      <g:description>שלט אלחוטי רשמי של Xbox, תומך ב-Bluetooth, ארגונומי מושלם, ג&apos;ויסטיקים מדויקים. הנמכר ביותר שלנו בקטגוריית הבקרים — אלפי גיימרים כבר בחרו בו.</g:description>
+      <g:link>https://example.com/product/shlt-aksbvks-alchvty-rb-mkr-gly0br</g:link>
       <g:image_link>https://example.com/assets/product-1782326703305-6wzdqf.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>80.00 ILS</g:price>
